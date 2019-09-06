@@ -200,7 +200,7 @@ Step 11: Once prerequisites completed without any error use the below ansible pl
 [root@master ~]# ansible-playbook -i ~/inventory.ini playbooks/deploy_cluster.yml
 
 
-Now you have to wait approx 20-30 Minutes to complete the Installation. 
+Now you have to wait approx 20-30 Minutes to complete the Installation. ===>>je suis ici 05/09/2019
 
 
 Step 12: Once the Installation is completed, Create a admin user in OpenShift with Password "Pas$$w0rd" from master Node:  
